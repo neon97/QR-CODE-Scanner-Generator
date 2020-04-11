@@ -25,17 +25,21 @@ Now its time to go for some coding...
 
 ------------- Wait a sec why everything here, You can find the whole content here ----------------
 <br>
-                                               OR
-                                               <br>
-                -------- Check for my Video content for better understanding -------
+<\t><\t>OR
+<br>
+<\t>-------- Check for my Video content for better understanding -------
 
 Dont forget to give a Clap to Medium Page and Kudos to this repo if it has helped you,
 
 Follow me on :
 <a class="github-button" href="https://www.linkedin.com/in/raj-vishwakarma0159">@linkedin</a>
+<br>
 <a class="github-button" href="https://www.facebook.com/edutechload/">@facebook</a>
+<br>
 <a class="github-button" href="https://www.youtube.com/edutech%20load">@youtube</a>
+<br>
 <a class="github-button" href="https://medium.com/@dc.vishwakarma.raj">@medium</a>
+<br>
 <a class="github-button" href="https://github.com/neon97">@github</a>
 
 I have uploaded Screenshots of the UI.
