@@ -24,7 +24,9 @@ Now its time to go for some coding...
 2. Getting to the Next creating Scanpage.dart and GeneratePage.dart
 
 ------------- Wait a sec why everything here, You can find the whole content here ----------------
+<br>
                                                OR
+                                               <br>
                 -------- Check for my Video content for better understanding -------
 
 Dont forget to give a Clap to Medium Page and Kudos to this repo if it has helped you,
