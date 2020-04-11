@@ -23,7 +23,7 @@ Now its time to go for some coding...
 
 2. Getting to the Next creating Scanpage.dart and GeneratePage.dart
 
---------------Wait, a sec why everything here, You can find the whole content here @ medium @youtube ----------------
+<a class="github-button" href="https://www.youtube.com/watch?v=kd1CLYLymbI">--------------Wait, a sec why everything here, You can find the whole content here @ medium @youtube ----------------</a>
 
 Dont forget to give a Clap to Medium Page and Kudos to this repo if it has helped you,
 
