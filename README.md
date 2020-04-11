@@ -17,5 +17,5 @@ Now its time to go for some coding...
 1. I have built and interface with two buttons that generate and scan the QR Code.
 
 <h3>Main Interface HomePage.dart</h3> 
-<img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/combo%20box.jpg?raw=true"  width="200" >
+<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2010.18.34.png?raw=true"  width="200" >
 </img>
