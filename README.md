@@ -1,16 +1,10 @@
-# qrcode
+# QR CODE Scanner & Generator
 
-A new Flutter project.
+A new Flutter project on QR Code Scanning and generating it for perosnal and business usage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You need to create a new flutter Project with choice of your name.
+You need to add some plugins named as:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a class="github-button" href="https://pub.dev/packages/barcode_scan">barcode_scan 2.0.1</a>
