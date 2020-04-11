@@ -4,6 +4,7 @@ import 'package:qrcode/homePage.dart';
 void main() {
   runApp(MaterialApp(
     home: MyApp(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
